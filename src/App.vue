@@ -1,26 +1,36 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <PullsTicker :chances="chances" :characters="characters"/>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import PullsTicker from './components/PullsTicker.vue';
 
 export default {
-  name: 'App',
+  name: 'app',
+  data() {
+    return {
+      characters: [],
+      chances: []
+    }
+  }, 
   components: {
-    HelloWorld
-  }
+    PullsTicker
+  },
+  mounted(){
+    fetch('characters.json').then(resp=>resp.json()).then(json=>{
+      this.characters=json;
+      console.log(json);
+    }),
+    fetch('chances.json').then(resp=>resp.json()).then(json=>{
+      this.chances=json;
+      console.log(json);
+    })
+  } 
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>

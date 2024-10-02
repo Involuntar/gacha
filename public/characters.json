@@ -1,0 +1,528 @@
+{
+    "5": {
+        "Characters": [
+            {
+                "Name": "Кинич",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kinich/image.png"
+            },
+            {
+                "Name": "Муалани",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/mualani/image.png"
+            },
+            {
+                "Name": "Эмилия",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/emilie/image.png"
+            },
+            {
+                "Name": "Сиджвин",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/sigewinne/image.png"
+            },
+            {
+                "Name": "Клоринда",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/clorinde/image.png"
+            },
+            {
+                "Name": "Арлекино",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/arlecchino/image.png"
+            },
+            {
+                "Name": "Тиори",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/chiori/image.png"
+            },
+            {
+                "Name": "Сянь Юнь",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/xianyun/image.png"
+            },
+            {
+                "Name": "Навия",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/navia/image.png"
+            },
+            {
+                "Name": "Фурина",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/furina/image.png"
+            },
+            {
+                "Name": "Ризли",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/wriothesley/image.png"
+            },
+            {
+                "Name": "Нёвиллет",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/neuvillette/image.png"
+            },
+            {
+                "Name": "Лини",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/lyney/image.png"
+            },
+            {
+                "Name": "Бай Чжу",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/baizhu/image.png"
+            },
+            {
+                "Name": "Дэхья",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/dehya/image.png"
+            },
+            {
+                "Name": "Аль-Хайтам",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/alhaitham/image.png"
+            },
+            {
+                "Name": "Странник",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/wanderer/image.png"
+            },
+            {
+                "Name": "Нахида",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/nahida/image.png"
+            },
+            {
+                "Name": "Нилу",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/nilou/image.png"
+            },
+            {
+                "Name": "Сайно",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/cyno/image.png"
+            },
+            {
+                "Name": "Тигнари",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/tighnari/image.png"
+            },
+            {
+                "Name": "Е Лань",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yelan/image.png"
+            },
+            {
+                "Name": "Аято",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kamisato_ayato/image.png"
+            },
+            {
+                "Name": "Яэ Мико",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yae_miko/image.png"
+            },
+            {
+                "Name": "Шэнь Хэ",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/shenhe/image.png"
+            },
+            {
+                "Name": "Итто",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/arataki_itto/image.png"
+            },
+            {
+                "Name": "Кокоми",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/sangonomiya_kokomi/image.png"
+            },
+            {
+                "Name": "Элой",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/aloy/image.png"
+            },
+            {
+                "Name": "Райдэн",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/raiden_shogun/image.png"
+            },
+            {
+                "Name": "Ёимия",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yoimiya/image.png"
+            },
+            {
+                "Name": "Аяка",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kamisato_ayaka/image.png"
+            },
+            {
+                "Name": "Кадзуха",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kaedehara_kazuha/image.png"
+            },
+            {
+                "Name": "Эола",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/eula/image.png"
+            },
+            {
+                "Name": "Ху Тао",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/hu_tao/image.png"
+            },
+            {
+                "Name": "Сяо",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/xiao/image.png"
+            },
+            {
+                "Name": "Гань Юй",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ganyu/image.png"
+            },
+            {
+                "Name": "Альбедо",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/albedo/image.png"
+            },
+            {
+                "Name": "Чжун Ли",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/zhongli/image.png"
+            },
+            {
+                "Name": "Тарталья",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/tartaglia/image.png"
+            },
+            {
+                "Name": "Дилюк",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/diluc/image.png"
+            },
+            {
+                "Name": "Джинн",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/jean/image.png"
+            },
+            {
+                "Name": "Кэ Цин",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/keqing/image.png"
+            },
+            {
+                "Name": "Кли",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/klee/image.png"
+            },
+            {
+                "Name": "Мона",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/mona/image.png"
+            },
+            {
+                "Name": "Ци Ци",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/qiqi/image.png"
+            },
+            {
+                "Name": "Венти",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/venti/image.png"
+            }
+        ],
+        "Weapons": [
+            {
+                "Name": "Оружие Лук Амоса",
+                "Icon": "img/Оружие Лук Амоса.png"
+            },
+            {
+                "Name": "Оружие Небесное крыло",
+                "Icon": "img/Оружие Небесное крыло.png"
+            },
+            {
+                "Name": "Оружие Меч Сокола",
+                "Icon": "img/Оружие Меч Сокола.png"
+            },
+            {
+                "Name": "Оружие Небесный меч",
+                "Icon": "img/Оружие Небесный меч.png"
+            },
+            {
+                "Name": "Оружие Волчья погибель",
+                "Icon": "img/Оружие Волчья погибель.png"
+            },
+            {
+                "Name": "Оружие Небесное величие",
+                "Icon": "img/Оружие Небесное величие.png"
+            },
+            {
+                "Name": "Оружие Нефритовый коршун",
+                "Icon": "img/Оружие Нефритовый коршун.png"
+            },
+            {
+                "Name": "Оружие Небесная ось",
+                "Icon": "img/Оружие Небесная ось.png"
+            },
+            {
+                "Name": "Оружие Молитва святым ветрам",
+                "Icon": "img/Оружие Молитва святым ветрам.png"
+            },
+            {
+                "Name": "Оружие Небесный атлас",
+                "Icon": "img/Оружие Небесный атлас.png"
+            }
+        ]
+    },
+    "4": {
+        "Characters": [
+            {
+                "Name": "Качина",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kachina/image.png"
+            },
+            {
+                "Name": "Сетос",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/sethos/image.png"
+            },
+            {
+                "Name": "Ка Мин",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/gaming/image.png"
+            },
+            {
+                "Name": "Шеврёз",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/chevreuse/image.png"
+            },
+            {
+                "Name": "Шарлотта",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/charlotte/image.png"
+            },
+            {
+                "Name": "Фремине",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/freminet/image.png"
+            },
+            {
+                "Name": "Линетт",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/lynette/image.png"
+            },
+            {
+                "Name": "Кирара",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kirara/image.png"
+            },
+            {
+                "Name": "Кавех",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kaveh/image.png"
+            },
+            {
+                "Name": "Мика",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/mika/image.png"
+            },
+            {
+                "Name": "Яо Яо",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yaoyao/image.png"
+            },
+            {
+                "Name": "Фарузан",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/faruzan/image.png"
+            },
+            {
+                "Name": "Лайла",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/layla/image.png"
+            },
+            {
+                "Name": "Кандакия",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/candace/image.png"
+            },
+            {
+                "Name": "Дори",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/dori/image.png"
+            },
+            {
+                "Name": "Коллеи",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/collei/image.png"
+            },
+            {
+                "Name": "Хэйдзо",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/shikanoin_heizou/image.png"
+            },
+            {
+                "Name": "Синобу",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kuki_shinobu/image.png"
+            },
+            {
+                "Name": "Юнь Цзинь",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yun_jin/image.png"
+            },
+            {
+                "Name": "Горо",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/gorou/image.png"
+            },
+            {
+                "Name": "Тома",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/thoma/image.png"
+            },
+            {
+                "Name": "Сара",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kujou_sara/image.png"
+            },
+            {
+                "Name": "Саю",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/sayu/image.png"
+            },
+            {
+                "Name": "Янь Фэй",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/yanfei/image.png"
+            },
+            {
+                "Name": "Розария",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/rosaria/image.png"
+            },
+            {
+                "Name": "Синь Янь",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/xinyan/image.png"
+            },
+            {
+                "Name": "Диона",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/diona/image.png"
+            },
+            {
+                "Name": "Эмбер",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/amber/image.png"
+            },
+            {
+                "Name": "Барбара",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/barbara/image.png"
+            },
+            {
+                "Name": "Бэй Доу",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/beidou/image.png"
+            },
+            {
+                "Name": "Беннет",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/bennett/image.png"
+            },
+            {
+                "Name": "Чун Юнь",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/chongyun/image.png"
+            },
+            {
+                "Name": "Фишль",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/fischl/image.png"
+            },
+            {
+                "Name": "Кэйа",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/kaeya/image.png"
+            },
+            {
+                "Name": "Лиза",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/lisa/image.png"
+            },
+            {
+                "Name": "Нин Гуан",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ningguang/image.png"
+            },
+            {
+                "Name": "Ноэлль",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/noelle/image.png"
+            },
+            {
+                "Name": "Рэйзор",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/razor/image.png"
+            },
+            {
+                "Name": "Сахароза",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/sucrose/image.png"
+            },
+            {
+                "Name": "Сян Лин",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/xiangling/image.png"
+            },
+            {
+                "Name": "Син Цю",
+                "Icon": "https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/xingqiu/image.png"
+            }
+        ],
+        "Weapons": [
+            {
+                "Name": "Оружие Бесструнный",
+                "Icon": "img/Оружие Бесструнный.png"
+            },
+            {
+                "Name": "Оружие Боевой лук Фавония",
+                "Icon": "img/Оружие Боевой лук Фавония.png"
+            },
+            {
+                "Name": "Оружие Ржавый лук",
+                "Icon": "img/Оружие Ржавый лук.png"
+            },
+            {
+                "Name": "Оружие Церемониальный лук",
+                "Icon": "img/Оружие Церемониальный лук.png"
+            },
+            {
+                "Name": "Оружие Драконий рык",
+                "Icon": "img/Оружие Драконий рык.png"
+            },
+            {
+                "Name": "Оружие Меч-флейта",
+                "Icon": "img/Оружие Меч-флейта.png"
+            },
+            {
+                "Name": "Оружие Меч Фавония",
+                "Icon": "img/Оружие Меч Фавония.png"
+            },
+            {
+                "Name": "Оружие Церемониальный меч",
+                "Icon": "img/Оружие Церемониальный меч.png"
+            },
+            {
+                "Name": "Оружие Дождерез",
+                "Icon": "img/Оружие Дождерез.png"
+            },
+            {
+                "Name": "Оружие Двуручный меч Фавония",
+                "Icon": "img/Оружие Двуручный меч Фавония.png"
+            },
+            {
+                "Name": "Оружие Меч-колокол",
+                "Icon": "img/Оружие Меч-колокол.png"
+            },
+            {
+                "Name": "Оружие Церемониальный двуручный меч",
+                "Icon": "img/Оружие Церемониальный двуручный меч.png"
+            },
+            {
+                "Name": "Оружие Гроза драконов",
+                "Icon": "img/Оружие Гроза драконов.png"
+            },
+            {
+                "Name": "Оружие Копьё Фавония",
+                "Icon": "img/Оружие Копьё Фавония.png"
+            },
+            {
+                "Name": "Оружие Кодекс Фавония",
+                "Icon": "img/Оружие Кодекс Фавония.png"
+            },
+            {
+                "Name": "Оружие Око сознания",
+                "Icon": "img/Оружие Око сознания.png"
+            },
+            {
+                "Name": "Оружие Песнь странника",
+                "Icon": "img/Оружие Песнь странника.png"
+            },
+            {
+                "Name": "Оружие Церемониальные мемуары",
+                "Icon": "img/Оружие Церемониальные мемуары.png"
+            }
+        ]
+    },
+    "3": [
+        {
+            "Name": "Оружие Рогатка",
+            "Icon": "img/Оружие Рогатка.png"
+        },
+        {
+            "Name": "Оружие Клятва стрелка",
+            "Icon": "img/Оружие Клятва стрелка.png"
+        },
+        {
+            "Name": "Оружие Лук ворона",
+            "Icon": "img/Оружие Лук ворона.png"
+        },
+        {
+            "Name": "Оружие Меч небесного всадника",
+            "Icon": "img/Оружие Меч небесного всадника.png"
+        },
+        {
+            "Name": "Оружие Предвестник зари",
+            "Icon": "img/Оружие Предвестник зари.png"
+        },
+        {
+            "Name": "Оружие Холодное лезвие",
+            "Icon": "img/Оружие Холодное лезвие.png"
+        },
+        {
+            "Name": "Оружие Дубина переговоров",
+            "Icon": "img/Оружие Дубина переговоров.png"
+        },
+        {
+            "Name": "Оружие Меч драконьей крови",
+            "Icon": "img/Оружие Меч драконьей крови.png"
+        },
+        {
+            "Name": "Оружие Металлическая тень",
+            "Icon": "img/Оружие Металлическая тень.png"
+        },
+        {
+            "Name": "Оружие Чёрная кисть",
+            "Icon": "img/Оружие Чёрная кисть.png"
+        },
+        {
+            "Name": "Оружие Изумрудный шар",
+            "Icon": "img/Оружие Изумрудный шар.png"
+        },
+        {
+            "Name": "Оружие Руководство по магии",
+            "Icon": "img/Оружие Руководство по магии.png"
+        },
+        {
+            "Name": "Оружие Эпос о драконоборцах",
+            "Icon": "img/Оружие Эпос о драконоборцах.png"
+        }
+    ]
+}
