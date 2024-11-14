@@ -1,24 +1,24 @@
-# gacha
+# Данный сайт разработан в целях понимания работы с фреймворком Vue, по теме gacha-системы, по аналогии как в Genshin Impact
 
-## Project setup
+## Установка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и горячая перезагрузка для разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Скомпилировано и минимизировано для продакшена
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Проверяет и исправляет файлы
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Настроить конфигурацию
+См. [Справочник по конфигурации](https://cli.vuejs.org/config/).
